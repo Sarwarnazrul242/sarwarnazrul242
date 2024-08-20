@@ -6,7 +6,7 @@ I'm Sarwar Nazrul a Full Stack Web Developer. I Spend most of my time coding out
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Sarwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://github.com/Sarwarnazrul242/) [![Mail Badge](https://img.shields.io/badge/-@sarwar_nzzx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sarwar_nzzx?igsh=Zm00anVndjIzajI2&utm_source=qr) [![Mail Badge](https://img.shields.io/badge/-sarwar.nazrul242-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sarwar.nazrul242@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Sarwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwar-nazrul/) [![Mail Badge](https://img.shields.io/badge/-@sarwar_nzzx-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sarwar_nzzx?igsh=Zm00anVndjIzajI2&utm_source=qr) [![Mail Badge](https://img.shields.io/badge/-sarwar.nazrul242-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sarwar.nazrul242@gmail.com)
 
 
 <!-- TODO: Add last video link -->
