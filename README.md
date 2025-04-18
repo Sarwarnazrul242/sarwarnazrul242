@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [sarwarnazrul.com](https://sarwarnazrul.com) 
 
-I'm Sarwar Nazrul a Full Stack Web Developer. I Spend most of my time coding outstanding projects.
+I'm Sarwar Nazrul, a full-stack web developer. I Spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out!
 
@@ -13,7 +13,7 @@ I'm Sarwar Nazrul a Full Stack Web Developer. I Spend most of my time coding out
 
 ### What I currently Do
 
-- 🔭 I’m currently a full time student at the University of Detroit Mercy.
+- 🔭 I’m recetlygraduated from the University of Detroit Mercy with B.S in Computer Sciece.
 - 🏢 I am currently working as a research assistant at the University of Detroit Mercy in a deep-learning project.
 - 🌻 Over the summer I interned with the Air Force Research Labrotary and DoD as a cybersecurity and software developer intern.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -32,8 +32,5 @@ I'm Sarwar Nazrul a Full Stack Web Developer. I Spend most of my time coding out
 - :email: sarwar.nazrul242@gmail.com
 
 
-#### GitHub stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwarnazrul242&hide=contribs,prs&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
